@@ -1,0 +1,163 @@
+ul{
+    list-style-type:none;
+  display:flex;
+  background-color:greenyellow;
+  height:50px;
+  border-radius:40px;
+}
+
+li{
+    margin-left:10px;
+    margin-top:12px;
+    font-family: 'Poppins', sans-serif;
+    margin-right:10px;
+   font-weight: 500;
+}
+
+a{
+    text-decoration: none;
+    font-size:20px;
+    color:black;
+}
+
+.title{
+    font-size:20px;
+    margin-top:12px;
+    letter-spacing:5px;
+    margin-right:250px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+}
+
+.title2{
+    font-weight:800;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing:5px;
+    margin-top:30px;
+    font-size:40px;
+
+}
+
+.udt2{
+   background-color:greenyellow;
+    height:5px;
+    width:550px;
+    margin-top:-15px;
+    border-radius:40px;
+}
+
+.body1{
+    width:900px;
+}
+
+p{
+    font-size:22px;
+    font-family: 'Poppins', sans-serif;
+    font-weight:800;
+}
+
+.title3{
+    font-size:100px;
+    letter-spacing:10px;
+    font-family: 'Poppins', sans-serif;
+    margin-top:-10px;
+    margin-bottom:-20px;
+}
+
+.udt3{
+    background-color:greenyellow;
+     height:5px;
+     width:280px;
+     margin-top:-15px;
+     border-radius:40px;
+ }
+
+ .primary_progress_bar{
+    background-color:rgb(194, 194, 194);
+    height:30px;
+    width:70%;
+    margin-top:40px;
+border-radius:40px;
+border-style: solid;
+ }
+
+ .secondary_progress_bar{
+    background-color: greenyellow;
+    height:30px;
+    width:10%;
+    border-radius:40px;
+    margin-left:-837px;
+ }
+
+ .udt4{
+    background-color:greenyellow;
+    height:5px;
+    width:200px;
+    margin-top:-15px;
+    border-radius:40px;
+ }
+
+ .space{
+    display:flex;
+    justify-content: center;
+ }
+
+ .ct1{
+    border-style:solid;
+    border-radius:10px;
+    margin-left:10px;
+    margin-right:10px;
+    width:417px;
+    height:500px;
+    margin-top:30px;
+ }
+ 
+ body{
+    width:fit-content;
+ }
+
+ .udt5{
+    background-color:greenyellow;
+    height:5px;
+    width:200px;
+    margin-top:-15px;
+    border-radius:40px;
+ }
+
+ .address{
+    border-style:solid;
+    border-radius:10px;
+    width:500px;
+    height:300px;
+    margin-left:10px;
+    margin-right:10px;
+    margin-top:30px;
+ }
+
+ .ct4{
+    justify-content:center;
+    display:flex;
+ }
+
+ .qr{
+    height:200px;
+ }
+
+ .udt6{
+    background-color:greenyellow;
+    height:5px;
+    width:210px;
+    margin-top:-15px;
+    border-radius:40px;
+ }
+
+ footer{
+    height:40px;
+    background-color:greenyellow;
+ }
+
+ .footer{
+    margin-left:10px;
+    font-size:18px;
+   padding-top:5px;
+ }
